@@ -1,10 +1,10 @@
 FROM ubuntu:18.04
 
-RUN apt-get update && \
-    apt-get install -y ruby-full && \
+RUN apt-get update
+RUN apt-get install -y ruby-full && \
     apt-get install -y build-essential && \
     apt-get install -y zlib1g-dev && \
-    apt-get clean
+    apt-get autoremove
 
 RUN echo '# Install Ruby Gems to ~/gems' >> ~/.bashrc
 RUN echo 'export GEM_HOME="$HOME/gems"' >> ~/.bashrc
