@@ -1,7 +1,7 @@
-name: "NIST Software Portal"
-author: "NIST ODI"
-title: NIST Software Portal
-description: "National Institute of Standards an Technology Software Portal"
+name: "Code Portal"
+author: "NIST Opensource"
+title: Code Portal
+description: "National Institute of Standards and Technology Opensource Code Portal "
 theme: nist-software-theme
 
 url: "https://software.nist.gov"
