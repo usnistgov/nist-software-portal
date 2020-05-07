@@ -34,7 +34,7 @@ Followed by opening <http://localhost:3000> in a web browser.
 
 ## Contact
 
-If you have any questions or would like to request a private repository, please don't hesitate to contact [Ian Lee](mailto:gretchen.greene@nist.gov).
+If you have any questions or would like to request a private repository, please don't hesitate to contact [Ian Lee](mailto:devops@nist.gov).
 
 # Release
 

@@ -44,9 +44,9 @@ This portal abounds with examples of projects that have found a home in the open
 
 ### Contact
 
-If you have any questions or would like to request a private repository, please don't hesitate to contact [Faical Yannick P. Congo](mailto:faical.congo@nist.gov) or one of our [GitHub organization admins](mailto:github@nist.gov).
+If you have any questions or would like to request a private repository, please don't hesitate to contact [Faical Yannick P. Congo](mailto:devops@nist.gov) or one of our [GitHub organization admins](mailto:devops@nist.gov).
 
-You can also find us on our mailing list: <open-source@nist.gov>.
+You can also find us on our mailing list: <devops@nist.gov>.
 
 Follow us on Twitter for up-to-date information about the latest developments!
 
