@@ -53,13 +53,13 @@ If you're new to GitHub, you may want to read through the GitHub Help pages on [
         - Storing the recovery codes in a password manager that you might be using.
     - We recommend that you set up *MULTIPLE* 2FA options. This can protect your access to your account in the event that you lose access to one of your authenticators.
     - For more information, check out the [Two-factor Authentication](https://github.com/blog/1614-two-factor-authentication) post on the GitHub Blog.
-    - Having trouble setting up 2FA? Contact the [NIST GitHub Admins](mailto:github@nist.gov) who may be able to help.
+    - Having trouble setting up 2FA? Contact the [NIST GitHub Admins](mailto:devops@nist.gov) who may be able to help.
 
 ### Joining the Organization
 
 If you are an employee at NIST and have 2FA enabled, congratulations! You are eligible to join the NIST GitHub organization.
 
-1. Send an email, with your GitHub username included, to [github@nist.gov](mailto:github@nist.gov) from your `@nist.gov` email, requesting to be added to the organization.
+1. Send an email, with your GitHub username included, to [devops@nist.gov](mailto:devops@nist.gov) from your `@nist.gov` email, requesting to be added to the organization.
 
 2. After an administrator has added you to the organization, you will receive a notification email from GitHub.
 
