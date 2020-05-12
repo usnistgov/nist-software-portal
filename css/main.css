@@ -8,6 +8,22 @@
       text-decoration: underline;
 }
 
+/* .navbar a.navbar-normal:hover {
+  color: #337ab7;
+} */
+
+.navbar-nav>li>a.navbar-normal:hover {
+  color: #337ab7;
+}
+
+.navbar-nav>li>a>span:hover {
+  color: #337ab7;
+}
+
+.navbar a.navbar-normal:hover {
+  color: #337ab7;
+}
+
 /* FlexBox configuration */
 
 .flex-container {
@@ -143,6 +159,7 @@
 .navbar a.navbar-normal {
     /* color: white; */
     text-decoration: none;
+    color: white;
 }
 
 .navbar {
