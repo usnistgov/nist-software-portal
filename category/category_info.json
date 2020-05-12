@@ -1,116 +1,98 @@
 {
     "data": {
+        "AI & MACHINE LEARNING": {
+            "title": "AI & MACHINE LEARNING",
+            "icon": {
+                "path": "/assets/images/build-tools.svg",
+                "alt": "AI & Machine Learning"
+            },
+            "description": "Intelligence and knowledge representation data and tools",
+            "topics": [
+                "ai",
+                "machine learning",
+                "predict",
+                "deep learning",
+                "face",
+                "iris",
+                "svc",
+                "classify"
+            ]
+        },
         "BUILD TOOLS": {
             "title": "BUILD TOOLS",
             "icon": {
-                "path": "/assets/images/build-tools.svg",
+                "path": "/assets/images/math.svg",
                 "alt": "Build Tools"
             },
-            "description": "Automate and simplify complex dependencies and deployments",
+            "description": "Source code building and deployment tools",
             "topics": [
-                "build-tools"
+                "build",
+                "tools",
+                "deploy",
+                "container",
+                "compiler",
+                "interpreter",
+                "cloud"
             ]
         },
-        "MATH & PHYSICS LIBRARIES": {
-            "title": "MATH & PHYSICS LIBRARIES",
-            "icon": {
-                "path": "/assets/images/math.svg",
-                "alt": "Math & Physics Libraries"
-            },
-            "description": "Optimize solvers, higher order methods, and AMR frameworks",
-            "topics": [
-                "math-physics"
-            ]
-        },
-        "DATA MANAGEMENT & VIZ": {
-            "title": "DATA MANAGEMENT & VIZ",
+        "SCIENCE SOFTWARE": {
+            "title": "SCIENCE SOFTWARE",
             "icon": {
                 "path": "/assets/images/data-manage.svg",
-                "alt": "Data Management & Visualization"
+                "alt": "Science Software"
             },
-            "description": "Manage visualizations with robust features and configurable analysis",
+            "description": "Scientific experiments construction and management tools",
             "topics": [
-                "data-management",
-                "data-viz"
+                "science",
+                "software",
+                "program",
+                "tool"
             ]
         },
-        "APPLICATIONS": {
-            "title": "APPLICATIONS",
+        "SIMULATIONS": {
+            "title": "SIMULATIONS",
             "icon": {
                 "path": "/assets/images/application.svg",
-                "alt": "Applications"
+                "alt": "Simulations"
             },
-            "description": "Browse scientific simulation codes and IT management tools",
+            "description": "Scientific simulations and modeling codes",
             "topics": [
-                "application"
+                "simulation",
+                "model"
+
             ]
         },
-        "PROXY APPLICATIONS": {
-            "title": "PROXY APPLICATIONS",
+        "HPC & WORKFLOW": {
+            "title": "HPC & WORKFLOW",
             "icon": {
                 "path": "/assets/images/prox-app.svg",
-                "alt": "Proxy Applications"
+                "alt": "HPC & Workflow"
             },
-            "description": "Prepare for testing and porting applications",
+            "description": "Computing and scheduling optimization tools",
             "topics": [
-                "proxy-application"
+                "hpc",
+                "workflow",
+                "cpu",
+                "gpu",
+                "scheduler"
             ]
         },
-        "SYSTEM SOFTWARE": {
-            "title": "SYSTEM SOFTWARE",
+        "VISUALIZATION": {
+            "title": "VISUALIZATION",
             "icon": {
                 "path": "/assets/images/system-software.svg",
-                "alt": "Systems Software"
+                "alt": "Visualization"
             },
-            "description": "Manage laptop and desktop computer systems, HPC clusters, and parallel environments",
+            "description": "visual rendering models and tools",
             "topics": [
-                "system-software"
-            ]
-        },
-        "PORTABLE EXECUTION & MEMORY MGMT": {
-            "title": "PORTABLE EXECUTION & MEMORY MGMT",
-            "icon": {
-                "path": "/assets/images/portable.svg",
-                "alt": "Portable Execution & Memory Management "
-            },
-            "description": "Automate data motion and memory allocation on advanced architectures",
-            "topics": [
-                "portability",
-                "memory-management"
-            ]
-        },
-        "PERFORMANCE & WORKFLOW": {
-            "title": "PERFORMANCE & WORKFLOW",
-            "icon": {
-                "path": "/assets/images/performance.svg",
-                "alt": "Performance & Workflow"
-            },
-            "description": "Manage and scale complex workflows, tracking, and data collection",
-            "topics": [
-                "performance",
-                "workflows"
-            ]
-        },
-        "FILE SYSTEMS": {
-            "title": "FILE SYSTEMS",
-            "icon": {
-                "path": "/assets/images/file-systems.svg",
-                "alt": "File Systems"
-            },
-            "description": "Configure data storage and retrieval for more efficient workloads",
-            "topics": [
-                "file-system"
-            ]
-        },
-        "APP INFRASTRUCTURE": {
-            "title": "APP INFRASTRUCTURE",
-            "icon": {
-                "path": "/assets/images/app-infrastructure.svg",
-                "alt": "App Infrastructure"
-            },
-            "description": "Browse tools for basic functionality common in HPC codes",
-            "topics":[
-                "app-infrastructure"
+                "visualization",
+                "1D",
+                "2D",
+                "3D",
+                "render",
+                "model",
+                "plot",
+                "graph"
             ]
         }
     }
