@@ -1405,6 +1405,42 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/NeXLCore.jl": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/NeXLDatabase.jl": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/NeXLMatrixCorrection.jl": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/NeXLParticle.jl": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/NeXLSpectrum.jl": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/NeXLUncertainties.jl": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/NistPluggableModules": {
             "repositoryTopics": {
                 "nodes": [],
@@ -1619,6 +1655,12 @@
             }
         },
         "usnistgov/PrivacyFrmwkResources": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/PublicSafetyUseCases": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -2604,6 +2646,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/core_linked_records_app": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/core_main_app": {
             "repositoryTopics": {
                 "nodes": [],
@@ -3216,6 +3264,55 @@
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
+            }
+        },
+        "usnistgov/elft": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/latent",
+                        "topic": {
+                            "name": "latent"
+                        },
+                        "url": "https://github.com/topics/latent"
+                    },
+                    {
+                        "resourcePath": "/topics/fingerprint",
+                        "topic": {
+                            "name": "fingerprint"
+                        },
+                        "url": "https://github.com/topics/fingerprint"
+                    },
+                    {
+                        "resourcePath": "/topics/biometrics",
+                        "topic": {
+                            "name": "biometrics"
+                        },
+                        "url": "https://github.com/topics/biometrics"
+                    },
+                    {
+                        "resourcePath": "/topics/evaluation",
+                        "topic": {
+                            "name": "evaluation"
+                        },
+                        "url": "https://github.com/topics/evaluation"
+                    },
+                    {
+                        "resourcePath": "/topics/government",
+                        "topic": {
+                            "name": "government"
+                        },
+                        "url": "https://github.com/topics/government"
+                    },
+                    {
+                        "resourcePath": "/topics/afis",
+                        "topic": {
+                            "name": "afis"
+                        },
+                        "url": "https://github.com/topics/afis"
+                    }
+                ],
+                "totalCount": 6
             }
         },
         "usnistgov/elr-aphl-validation-plugins": {
@@ -4717,6 +4814,12 @@
                 "totalCount": 0
             }
         },
+        "usnistgov/nist-software-manage": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "usnistgov/nist-software-portal": {
             "repositoryTopics": {
                 "nodes": [],
@@ -4815,8 +4918,58 @@
         },
         "usnistgov/optbayesexpt": {
             "repositoryTopics": {
-                "nodes": [],
-                "totalCount": 0
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/experimental-settings",
+                        "topic": {
+                            "name": "experimental-settings"
+                        },
+                        "url": "https://github.com/topics/experimental-settings"
+                    },
+                    {
+                        "resourcePath": "/topics/measurement-settings",
+                        "topic": {
+                            "name": "measurement-settings"
+                        },
+                        "url": "https://github.com/topics/measurement-settings"
+                    },
+                    {
+                        "resourcePath": "/topics/parametric-model",
+                        "topic": {
+                            "name": "parametric-model"
+                        },
+                        "url": "https://github.com/topics/parametric-model"
+                    },
+                    {
+                        "resourcePath": "/topics/decision-making",
+                        "topic": {
+                            "name": "decision-making"
+                        },
+                        "url": "https://github.com/topics/decision-making"
+                    },
+                    {
+                        "resourcePath": "/topics/experiment-design",
+                        "topic": {
+                            "name": "experiment-design"
+                        },
+                        "url": "https://github.com/topics/experiment-design"
+                    },
+                    {
+                        "resourcePath": "/topics/bayesian-inference",
+                        "topic": {
+                            "name": "bayesian-inference"
+                        },
+                        "url": "https://github.com/topics/bayesian-inference"
+                    },
+                    {
+                        "resourcePath": "/topics/utility-function",
+                        "topic": {
+                            "name": "utility-function"
+                        },
+                        "url": "https://github.com/topics/utility-function"
+                    }
+                ],
+                "totalCount": 7
             }
         },
         "usnistgov/oscal-cli": {
@@ -5248,6 +5401,12 @@
             }
         },
         "usnistgov/qd-realization": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "usnistgov/qdar-analysis-client": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
