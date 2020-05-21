@@ -1,5 +1,5 @@
 name: "Code Portal"
-version: "1.0.1" #last digit # 0 indicate a development cycle in course.
+version: "1.0.2" #last digit # 0 indicate a development cycle in course.
 author: "NIST Opensource"
 title: Code Portal
 description: "National Institute of Standards and Technology Opensource Code Portal "

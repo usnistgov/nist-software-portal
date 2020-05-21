@@ -24,6 +24,10 @@
   color: #337ab7;
 }
 
+.navbar-brand:hover {
+  color: #337ab7;
+}
+
 /* FlexBox configuration */
 
 .flex-container {
